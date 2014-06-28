@@ -2,9 +2,9 @@
   "name": "big-cursor",
   "main": "./lib/big-cursor",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Simple toggle to add a vertical guideline",
   "activationEvents": ["big-cursor:toggle"],
-  "repository": "https://github.com/atom/big-cursor",
+  "repository": "https://github.com/chick-chains/atom-big-cursor",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
